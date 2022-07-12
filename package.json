@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mitata": "^0.1.3",
+    "peechy": "0.4.32",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "private": true,
+  "scripts": {
+  },
+  "devDependencies": {
+    "he": "^1.2.0",
+    "html-entities": "^2.3.3",
+    "prettier": "^2.4.1",
+    "typescript": "4.6.3"
+  },
+  "version": "0.0.0"
+}
