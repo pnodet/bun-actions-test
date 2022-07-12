@@ -3,6 +3,8 @@ import * as shiki from "shiki";
 
 const DOCS = "https://github.com/oven-sh/bun#Reference";
 
+// trigger website re-build
+
 // because we don't want to wait for it to reload everytime this page reloads
 globalThis._highlighter ||= await shiki.getHighlighter({
   theme: "dracula",
