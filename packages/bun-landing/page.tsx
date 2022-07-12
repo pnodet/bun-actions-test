@@ -182,7 +182,7 @@ const InstallBox = ({ desktop = false }) => (
   >
     <div className="InstallBox-label">
       <div className="InstallBox-label-heading">
-        Install Bun CLI {process.version} (beta)
+        Trigger Bun CLI {process.version} (beta)
       </div>
       <div className="InstallBox-label-subtitle">
         macOS x64 &amp; Silicon, Linux x64, Windows Subsystem for Linux
